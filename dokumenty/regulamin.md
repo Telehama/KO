@@ -48,14 +48,14 @@
 ## Art 1. Zasady ogólne organizacji
 
 1. Główny lider może przekazać organizacje dopiero po upływie minimalnie trzech tygodni na stanowisku. Jeśli nie upłynie ten czas, może trafić na czarną listę liderów.
-2. Organizacja prywatna składa się z 1 GLD + 2 VLD + Członków frakcji. W przypadku porządkowych i rządowych jest 1GLD + 3VLD + Członkowie frakcji.
+2. Organizacja prywatna i przestępcza składa się z 1 GLD + 2 VLD + Członków frakcji. W przypadku porządkowych i rządowych jest 1GLD + 3VLD + Członkowie frakcji.
 3. Wszystkie prace członków frakcji związane bezpośrednio z działalnością na rzecz organizacji z chwilą publikacji przestają być jego.
  * Prawo do publikacji prac byłych członków frakcji (lub liderów) przysługuje tylko i wyłącznie po zamieszczeniu adnotacji o autorze.
 4. Podczas otrzymania BW - gracz winien jest odgrywać osobę ranną przez co najmniej 10 minut jeśli na serwerze znajdują się osoby należące do LSMC.
 5. Sprawy poszczególnych zachowań i zasad IC (in character) regulują wewnętrzne regulaminy
 6. Lider to przedstawiciel organizacji i jego zachowanie znacząco na nią wpływa. Oznacza to, iż organizacja może zostać ukarana za grzechy, które popełnił jeden z liderów.
-7. Uzyskanie 2 upomnień jest równoznaczne z nadaniem ostrzeżenia/usunięciem organizacji/całkowitą czystką.
-7.1. Uzyskanie 2 ostrzeżeń może poskutkować zmianą na upomnienie oraz obserwacją frakcji przez KO.
+7. Uzyskanie 2 upomnień jest równoznaczne z usunięciem organizacji lub lidera.
+7.1. Uzyskanie 2 ostrzeżeń może skutkuje zmianą na upomnienie oraz obserwacją frakcji przez KO.
 8. Każda osoba grająca w organizacji przestępczej, porządkowej i rządowej wyraża automatycznie zgodę na CK dla zarządu KO.
 9. Opinie o FCK wydaje [Herato](https://mrucznik-rp.pl/user/7735-herato/) wraz z asystentem organizacji przestępczych, a ostateczną opinię podejmuje [_West_](https://mrucznik-rp.pl/user/1064-west/).
 10. Po odrzuceniu aplikacji kolejną możesz napisać dopiero po upływie dwóch tygodni od wydania werdyktu.
