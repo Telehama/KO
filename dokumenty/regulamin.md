@@ -57,7 +57,7 @@
 7. Uzyskanie 2 upomnień jest równoznaczne z nadaniem ostrzeżenia/usunięciem organizacji/całkowitą czystką.
 7.1. Uzyskanie 2 ostrzeżeń może poskutkować zmianą na upomnienie oraz obserwacją frakcji przez KO.
 8. Każda osoba grająca w organizacji przestępczej, porządkowej i rządowej wyraża automatycznie zgodę na CK dla zarządu KO.
-9. Opinie o FCK wydaje [Krates](https://mrucznik-rp.pl/user/42-krates/) & [Herato](https://mrucznik-rp.pl/user/7735-herato/), a ostateczną opinię podejmuje [_West_](https://mrucznik-rp.pl/user/1064-west/).
+9. Opinie o FCK wydaje [Herato](https://mrucznik-rp.pl/user/7735-herato/) wraz z asystentem organizacji przestępczych, a ostateczną opinię podejmuje [_West_](https://mrucznik-rp.pl/user/1064-west/).
 10. Po odrzuceniu aplikacji kolejną możesz napisać dopiero po upływie dwóch tygodni od wydania werdyktu.
 11. Regulamin dotyczy każdego gracza serwisu mrucznik-rp.
 
