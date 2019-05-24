@@ -345,7 +345,7 @@ Wyobraź sobie, że masz sojusz z gangiem ale czymś ciebie zdenerwowali i przeb
 ### 10. Regulamin FCK
 #### 1. Co trzeba zrobic aby nadać FCK?
 - posiadać konkretny powód, który nie może być błahostką (możliwe powody podane w 2 podpunkcie).
-- wysłać plan zabójstwa w odpowiedniej wiadomości do [_West_](https://mrucznik-rp.pl/user/1064-west/) & [Herato](https://mrucznik-rp.pl/user/7735-herato/) & [Krates](https://mrucznik-rp.pl/user/42-krates/).
+- wysłać plan zabójstwa w odpowiedniej wiadomości do [_West_](https://mrucznik-rp.pl/user/1064-west/) & [Herato](https://mrucznik-rp.pl/user/7735-herato/).
 Uwzględniamy tam screeny z planowania, przebiegu akcji i powód do ewentualnego wykonania FCK.
 - każde zabójstwo z ręki organizacji przestępczej musi zostać udokumentowane w dziale Wydarzenia. W innym wypadku zostanie ono odrzucone.
 
@@ -364,6 +364,3 @@ Kierownik może zatwierdzić FCK za rzeczy nieuwzględnione w regulaminie, tak z
 #### 4. Skutki FCK
 Jeśli na osobie zostały wykonane wszystkie podpunkty z rozdziału 1, gracz ma obowiązek wpisać komendę /zmiennick.
 W przypadku, gdy osoba nie zrobi tego w ciągu 48 godzin - jej konto zostanie zablokowane.
-
-
-> Regulamin powstał przy współpracy z wszystkimi członkami KO, każdy dołożył do niego cegiełkę. **Dziękujemy za pomoc! <3**
