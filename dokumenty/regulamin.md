@@ -12,9 +12,9 @@
     + [5. Sklepy z bronią](#5-sklepy-z-bronią)
     + [6. Wymagania na akceptacje aplikacji](#6-wymagania-na-akceptacje-aplikacji)
   * [Art 4. Organizacje porządkowe](#art-4-organizacje-porządkowe)
-    + [1. LSPD](#lspd)
-    + [2. FBI](#fbi)
-    + [3. EMS](#ems)
+    + [1. LSPD](#1-lspd)
+    + [2. FBI](#2-fbi)
+    + [3. EMS](#3-ems)
   * [Art 5. Organizacje rządowe](#art-5-organizacje-rządowe)
     + [Urząd Miasta](#urząd-miasta)
     + [United States Secret Service](#united-states-secret-service)
@@ -111,7 +111,7 @@ Kto ma szansę otrzymać slota?
 
 ## Art 4. Organizacje porządkowe
 
-### LSPD
+### 1. LSPD
 Utrzymywanie porządku publicznego w mieście
 Reagowanie na zgłoszenia alarmowe 
 Zarządzanie i administrowanie pozwoleniami na broń palną
@@ -123,14 +123,14 @@ Prowadzenie i wykorzystywanie specjalnej jednostki SWAT
 Zabezpieczanie imprez masowych i miejsc zdarzenia
 Prowadzenie jednostki Gang Unit specjalizującej się w działaniu na terenie South Central w związku z gangami ulicznymi
 
-### FBI
+### 2. FBI
 Prowadzenie działań kryminalno-dochodzeniowych na terenie miasta
 Zwalczanie obiegu nielegalnych narkotyków i broni
 Inwigilowanie i rozpracowywanie organizacji przestępczych
 Przeprowadzanie kontroli antykorupcyjnych w innych organizacjach publiczno-rządowych.
 Prowadzenie specjalistycznej jednostki uderzeniowej HRT do zadań najwyższego ryzyka.
 
-### EMS
+### 3. EMS
 Reagowanie na zgłoszenia alarmowe
 Zarządzanie i administrowanie szpitalem
 Gaszenie pożarów
