@@ -111,7 +111,7 @@ Kto ma szansę otrzymać slota?
 
 ## Art 4. Organizacje porządkowe
 
-### 1. LSPD
+### LSPD
 Utrzymywanie porządku publicznego w mieście
 Reagowanie na zgłoszenia alarmowe 
 Zarządzanie i administrowanie pozwoleniami na broń palną
@@ -123,14 +123,14 @@ Prowadzenie i wykorzystywanie specjalnej jednostki SWAT
 Zabezpieczanie imprez masowych i miejsc zdarzenia
 Prowadzenie jednostki Gang Unit specjalizującej się w działaniu na terenie South Central w związku z gangami ulicznymi
 
-### 2. FBI
+### FBI
 Prowadzenie działań kryminalno-dochodzeniowych na terenie miasta
 Zwalczanie obiegu nielegalnych narkotyków i broni
 Inwigilowanie i rozpracowywanie organizacji przestępczych
 Przeprowadzanie kontroli antykorupcyjnych w innych organizacjach publiczno-rządowych.
 Prowadzenie specjalistycznej jednostki uderzeniowej HRT do zadań najwyższego ryzyka.
 
-### 3. EMS
+### EMS
 Reagowanie na zgłoszenia alarmowe
 Zarządzanie i administrowanie szpitalem
 Gaszenie pożarów
