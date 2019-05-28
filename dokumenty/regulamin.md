@@ -11,12 +11,10 @@
     + [4. Organizacje o charakterze przewozowym](#4-organizacje-o-charakterze-przewozowym)
     + [5. Sklepy z bronią](#5-sklepy-z-bronią)
     + [6. Wymagania na akceptacje aplikacji](#6-wymagania-na-akceptacje-aplikacji)
-  * [Art 4. Organizacje porządkowe oraz FBI](#art-4-organizacje-porządkowe-oraz-fbi)
-    + [1. Postanowienia ogólne](#1-postanowienia-ogólne-1)
-    + [2. Pościgi](#2-pościgi)
-    + [3. Pojazdy i umundurowanie](#3-pojazdy-i-umundurowanie)
-    + [4. Licencje](#4-licencje)
-    + [5. Code Red i GPS](#5-code-red-i-gps)
+  * [Art 4. Organizacje porządkowe](#art-4-organizacje-porządkowe)
+    + [1. LSPD](#1-lspd)
+    + [2. FBI](#2-fbi)
+    + [3. EMS](#3-ems)
   * [Art 5. Organizacje rządowe](#art-5-organizacje-rządowe)
     + [Urząd Miasta](#urząd-miasta)
     + [United States Secret Service](#united-states-secret-service)
@@ -111,61 +109,44 @@ Kto ma szansę otrzymać slota?
 5. Autorzy nie ulegający presji, starający się panować nad językiem i kulturą słowa.
 6. Biznesy z aplikacją trwającą tydzień.
 
-## Art 4. Organizacje porządkowe oraz FBI
+## Art 4. Organizacje porządkowe
 
-### 1. Postanowienia ogólne
-1. Na terenach South Central (gangów) może działać tylko Gang Unit oraz FBI.
-2. Inne jednostki służby porządkowe/rządowe mogą działać na owym terenie za zgodą najwyższego stopnia Gang Unit bądź LSPD.
-3. Odgrywając akcje RP zakazuje się grania OOC.
-4. Służby porządkowe po otrzymaniu BW winne są do odgrywania rannych przez co najmniej 10 minut jeśli na serwerze znajduje się gracz należący do LSMC.
+### 1. LSPD
+Utrzymywanie porządku publicznego w mieście
+Reagowanie na zgłoszenia alarmowe 
+Zarządzanie i administrowanie pozwoleniami na broń palną
+Wydawanie zezwoleń prawniczych
+Prowadzenie kontroli i pościgów
+Administrowanie zaświadczeniami o niekaralności
+Prowadzenie kartotek zatrzymanych i aresztowanych
+Prowadzenie i wykorzystywanie specjalnej jednostki SWAT
+Zabezpieczanie imprez masowych i miejsc zdarzenia
+Prowadzenie jednostki Gang Unit specjalizującej się w działaniu na terenie South Central w związku z gangami ulicznymi
 
+### 2. FBI
+Prowadzenie działań kryminalno-dochodzeniowych na terenie miasta
+Zwalczanie obiegu nielegalnych narkotyków i broni
+Inwigilowanie i rozpracowywanie organizacji przestępczych
+Przeprowadzanie kontroli antykorupcyjnych w innych organizacjach publiczno-rządowych.
+Prowadzenie specjalistycznej jednostki uderzeniowej HRT do zadań najwyższego ryzyka.
 
-### 2. Pościgi
-1. W pościgach za osobami poszukiwanymi bądź piratami drogowymi może brać udział LSPD i FBI (jeśli osoba ścigana goniona jest listem federalnym[6]+WL).
-2. Służby porządkowe mają prawo do otwarcia ognia w uciekiniera jeśli ten użyje dwutlenku azotu, pościg (pojazdami) trwa dłużej niż 6 minut, środki przymusu bezpośredniego nie wystarczają, osoba uciekająca celuje/oddaje strzały w stronę służb/cywila bądź jeśli poszukiwana jest listem federalnym (6+WL).
-
-### 3. Pojazdy i umundurowanie
-1. Każdy pojazd służb porządkowych posiada dash cam.
-2. Agenci w strojach szturmowych i funkcjonariusze posiadają w swych mundurach body cam. Agenci bądź funkcjonariusz działający „w cywilu” musi posiadać /opis lub SS (z /time) z posiadania/zakładania body cam.
-
-### 4. Licencje
-1. Funkcjonariusz bądź agent ma prawo zabrać uciekinierowi licencje jeśli takową posiada bądź jeśli uciekł w sposób niedozwolony (/q).
-2. Jeśli osoba złapana posiada dowody na schowanie ów dokumentu (SS + /time) to funkcjonariusz/agent winien jest zagrać skanowanie linii papilarnych. Dopiero wtedy ma prawo unieważnić komuś dokument.
-
-### 5. Code Red i GPS
-1. W przypadku ogłoszenia Code Red, służby winne są porzucić swoje dotychczasowe obowiązki i wyruszyć w stronę miejsca, z którego został nadany (nie ważne co wcześniej było ogłaszane).
-2. Za niepoprawne użycia Code Red osoba ogłaszająca winna zostać ukarana przez dowódców jednostek.
-3. GPS przejmuje osoba ogłaszająca Code Red, nie ważne w jakich celach wcześniej był używany.
-4. Nadajnik nie może zostać przejęty przez kogoś do innej akcji, jeśli jest już przez kogoś użytkowany – wyjątek stanowi Code Red.
+### 3. EMS
+Reagowanie na zgłoszenia alarmowe
+Zarządzanie i administrowanie szpitalem
+Gaszenie pożarów
+Usuwanie plam
+Świadczenie usług paramedycznych na miejscu zdarzenia
+Przeprowadzanie zabiegów i operacji
 
 ## Art 5. Organizacje rządowe
 ### Urząd Miasta
-1. Wydawanie dokumentów osobistych
-  - dowód osobisty
-  - prawo jazdy
-  - licencje na broń
-  - patent żeglarski
-  - licencje pilota
-  - karta wędkarska
-
-2. Przeprowadzanie egzaminów
-  - teoretycznych
-  - praktycznych
-
-3. Powoływanie burmistrzów miasteczek
-4. Udzielanie informacji
-5. Zarząd Urzędu:
-  - ma prawo przygotować własne ustawy i zgłaszać je do rady miasta
-  - pilnuje, by ustawy, gdzie został złożony podpis gubernatora weszły w życie
-  - zarządzanie ratuszem Los Santos
-  - zarządzanie miasteczkami podległymi pod Los Santos
+1. Wydawanie dokumentów publicznych (dowodów, prawa jazdy, licencje itp)
+2. Przeprowadzanie egzaminów praktycznych i teoretycznych na wyżej wymienione dokumenty.
 
 ### United States Secret Service
-1. USSS ma prawo do otworzenia ognia podczas zagrożenia konwojów
-2. USSS może wyprowadzić obywatela z urzędu tylko i wyłącznie po wcześniejszym jego upomnieniu, a jeśli to nie poskutkowało to zostaje dany osobnik wyproszony z placówki.
-3. USSS ma prawo do użycia broni podczas działań związanych z korupcją służb porządkowych
-4. Podczas rozpraw USSS ma bezwzględny obowiązek wykonywania poleceń sądu jak i respektowania zasad panujących na owych salach.
-5. USSS pełni główną funkcje podczas działań prawnych przeciwko radnym, burmistrzowi oraz gubernatorowi.
+1. Ochrona miasta i członków rządu.
+2. Zabezpieczanie przedstawicieli rządu podczas eventów masowych.
+3. Zapewnianie konwojów i transportów ważnych osobistości. 
 
 ### Sąd
 #### Uprawnienia
