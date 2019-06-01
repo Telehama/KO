@@ -112,31 +112,31 @@ Kto ma szansę otrzymać slota?
 ## Art 4. Organizacje porządkowe
 
 ### 1. LSPD
-Utrzymywanie porządku publicznego w mieście
-Reagowanie na zgłoszenia alarmowe 
-Zarządzanie i administrowanie pozwoleniami na broń palną
-Wydawanie zezwoleń prawniczych
-Prowadzenie kontroli i pościgów
-Administrowanie zaświadczeniami o niekaralności
-Prowadzenie kartotek zatrzymanych i aresztowanych
-Prowadzenie i wykorzystywanie specjalnej jednostki SWAT
-Zabezpieczanie imprez masowych i miejsc zdarzenia
-Prowadzenie jednostki Gang Unit specjalizującej się w działaniu na terenie South Central w związku z gangami ulicznymi
+1. Utrzymywanie porządku publicznego w mieście,
+2. Reagowanie na zgłoszenia alarmowe,
+3. Zarządzanie i administrowanie pozwoleniami na broń palną,
+4. Wydawanie zezwoleń prawniczych,
+5. Prowadzenie kontroli i pościgów,
+6. Administrowanie zaświadczeniami o niekaralności,
+7. Prowadzenie kartotek zatrzymanych i aresztowanych,
+8. Prowadzenie i wykorzystywanie specjalnej jednostki SWAT,
+9. Zabezpieczanie imprez masowych i miejsc zdarzenia,
+10. Prowadzenie jednostki Gang Unit specjalizującej się w działaniu na terenie South Central w związku z gangami ulicznymi.
 
 ### 2. FBI
-Prowadzenie działań kryminalno-dochodzeniowych na terenie miasta
-Zwalczanie obiegu nielegalnych narkotyków i broni
-Inwigilowanie i rozpracowywanie organizacji przestępczych
-Przeprowadzanie kontroli antykorupcyjnych w innych organizacjach publiczno-rządowych.
-Prowadzenie specjalistycznej jednostki uderzeniowej HRT do zadań najwyższego ryzyka.
+1. Prowadzenie działań kryminalno-dochodzeniowych na terenie miasta,
+2. Zwalczanie obiegu nielegalnych narkotyków i broni,
+3. Inwigilowanie i rozpracowywanie organizacji przestępczych,
+4. Przeprowadzanie kontroli antykorupcyjnych w innych organizacjach publiczno-rządowych,
+5. Prowadzenie specjalistycznej jednostki uderzeniowej HRT do zadań najwyższego ryzyka.
 
 ### 3. EMS
-Reagowanie na zgłoszenia alarmowe
-Zarządzanie i administrowanie szpitalem
-Gaszenie pożarów
-Usuwanie plam
-Świadczenie usług paramedycznych na miejscu zdarzenia
-Przeprowadzanie zabiegów i operacji
+1. Reagowanie na zgłoszenia alarmowe,
+2. Zarządzanie i administrowanie szpitalem,
+3. Gaszenie pożarów,
+4. Usuwanie plam,
+5. Świadczenie usług paramedycznych na miejscu zdarzenia,
+6. Przeprowadzanie zabiegów i operacji.
 
 ## Art 5. Organizacje rządowe
 ### Urząd Miasta
