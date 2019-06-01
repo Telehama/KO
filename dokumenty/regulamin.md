@@ -4,18 +4,18 @@
 - [Regulamin ogólny KO](#regulamin-ogólny-ko)
   * [Art 1. Zasady ogólne organizacji](#art-1-zasady-ogólne-organizacji)
   * [Art 2. Zasady przekazywania lidera](#art-2-zasady-przekazywania-lidera)
-  * [Art 3. Organizacje prywatne](#art-3-organizacje-prywatne)
+  * [Art 3. Założenia dla organizacji prywatnych](#art-3-założenia-dla-organizacji-prywatnych)
     + [1. Postanowienia ogólne](#1-postanowienia-ogólne)
     + [2. Organizacje o charakterze radia lub telewizji](#2-organizacje-o-charakterze-radia-lub-telewizji)
     + [3. Warsztaty samochodowe](#3-warsztaty-samochodowe)
     + [4. Organizacje o charakterze przewozowym](#4-organizacje-o-charakterze-przewozowym)
     + [5. Sklepy z bronią](#5-sklepy-z-bronią)
     + [6. Wymagania na akceptacje aplikacji](#6-wymagania-na-akceptacje-aplikacji)
-  * [Art 4. Organizacje porządkowe](#art-4-organizacje-porządkowe)
+  * [Art 4. Założenia dla organizacji porządkowych](#art-4-założenia-dla-organizacji-porządkowych)
     + [1. LSPD](#1-lspd)
     + [2. FBI](#2-fbi)
     + [3. EMS](#3-ems)
-  * [Art 5. Organizacje rządowe](#art-5-organizacje-rządowe)
+  * [Art 5. Założenia dla organizacji rządowych](#art-5-założenia-dla-organizacji-rządowych)
     + [Urząd Miasta](#urząd-miasta)
     + [United States Secret Service](#united-states-secret-service)
     + [Sąd](#sąd)
@@ -23,7 +23,7 @@
       - [Obowiązki](#obowiązki)
       - [Zakazy](#zakazy)
       - [Kary](#kary)
-  * [Art 6. Organizacje przestępczej](#art-6-organizacje-przestepczej)
+  * [Art 6. Założenia dla organizacji przestępczych](#art-6-założenia-dla-organizacji-przestępczych)
     + [1. Zasady ogólne](#1-zasady-ogólne)
     + [2. Porwania](#2-porwania)
     + [3. Napady](#3-napady)
@@ -36,7 +36,6 @@
     + [9. Aplikacje na organizacje przestępcze](#9-aplikacje-na-organizacje-przestepcze)
       - [1. Regulamin aplikacji](#1-regulamin-aplikacji)
       - [2. Ogólna pomoc z aplikacjami](#2-ogólna-pomoc-z-aplikacjami)
-      - [3. Moja aplikacja została zaakceptowana, co dalej?](#3-moja-aplikacja-zostaa-zaakceptowana-co-dalej)
     + [10. Regulamin FCK](#10-regulamin-fck)
       - [1. Co trzeba zrobic aby nadać FCK?](#1-co-trzeba-zrobic-aby-nadać-fck)
       - [2. Za co można otrzymać FCK?](#2-za-co-można-otrzymać-fck)
@@ -65,7 +64,7 @@
 3. Wniosek może być odrzucony jeśli na osobę są stałe skargi lub znajduje się na [czarnej liście liderów](https://mrucznik-rp.pl/topic/140-ko-czarna-lista-lider%C3%B3w/). Skandaliczne zachowanie na forum również może być brane pod uwagę.
 4. Jeśli wniosek o przekazanie lidera zostanie odrzucony może to zakończyć się zamknięciem organizacji lub wewnętrzną/zewnętrzna rekrutacją na owe stanowisko.
 
-## Art 3. Organizacje prywatne
+## Art 3. Założenia dla organizacji prywatnych
 ### 1. Postanowienia ogólne
 1. Za właściciela uważamy osobę, która posiada akt danej nieruchomości oraz osobę, która wynajmuje daną nieruchomość od Wydziału Planowania lub od właściciela posiadającego akt nieruchomości.
 2. Zakazuje się zabawy w organizacje przestępczą/porządkową.
@@ -102,14 +101,10 @@
 
 ### 6. Wymagania na akceptacje aplikacji
 Kto ma szansę otrzymać slota?
-1. Biznesy, które aktywnie grają, mającą bogatą galerię i cieszące się rozgrywką, pomimo braku slota.
-2. Biznesy legalnie zajmujące daną siedzibę.
-3. Biznesy na które jest zapotrzebowanie.
-4. Biznesy mające spore zainteresowanie osobami.
-5. Autorzy nie ulegający presji, starający się panować nad językiem i kulturą słowa.
-6. Biznesy z aplikacją trwającą tydzień.
+1. Biznesy, które aktywnie grają, często publikują screeny na forum, ich aplikacja trwa co najmniej tydzień, cieszą się dobrą rozgrywką pomimo braku slota.
+2. Autorzy aplikacji nie ulegający presji, starający się panować nad językiem i kulturą słowa.
 
-## Art 4. Organizacje porządkowe
+## Art 4. Założenia dla organizacji porządkowych
 
 ### 1. LSPD
 1. Utrzymywanie porządku publicznego w mieście,
@@ -138,7 +133,7 @@ Kto ma szansę otrzymać slota?
 5. Świadczenie usług paramedycznych na miejscu zdarzenia,
 6. Przeprowadzanie zabiegów i operacji.
 
-## Art 5. Organizacje rządowe
+## Art 5. Założenia dla organizacji rządowych
 ### Urząd Miasta
 1. Wydawanie dokumentów publicznych (dowodów, prawa jazdy, licencje itp)
 2. Przeprowadzanie egzaminów praktycznych i teoretycznych na wyżej wymienione dokumenty.
@@ -176,7 +171,7 @@ Kto ma szansę otrzymać slota?
 2. pozbawienie wolności
 3. dożywotnie pozbawienie wolności
 
-## Art 6. Organizacje przestępczej
+## Art 6. Założenia dla organizacji przestępczych
 
 ### 1. Zasady ogólne
 1. Śmierć lidera grupy skutkuje jej kasacją tylko w przypadku, gdy nie ma innej osoby, która pozwoli zachować wątek i ciągłość organizacji.
@@ -265,17 +260,15 @@ Wyobraź sobie, że masz sojusz z gangiem ale czymś ciebie zdenerwowali i przeb
 
 ### 9. Aplikacje na organizacje przestępcze
 **Aby aplikacja została zaakceptowana na okres próbny musi przede wszystkim posiadać**:
-1. Notatkę IC (działalność, poglądy, miejscówka, kultura, historia, etc.)
-2. Notatkę OOC (ekipa min. 5 osób, plan gry, coś co was wyróżni, etc.)
+1. Notatkę IC
+2. Notatkę OOC
 3. Proste logo (jedna ładna grafika wystarczy).
 4. Pierwsze SS'y z gry (pokazujecie w nich coś więcej niż jedną osobę).
 
 **Na co patrzymy głównie podczas wybierania aplikacji?**:
-1. Jakość gry.
-2. Aktywność.
-3. Zaangażowanie w półświatek
-4. Interakcje z innymi organizacjami.
-5. Kartoteka kar i postów lidera wraz ekipą. (opcjonalnie)
+1. Jakość oraz aktywność podczas waszej gry,
+2. Zaangażowanie w półświatek przestępczy, interakcje z innymi organizacjami.
+
 
 #### 1. Regulamin aplikacji
 1. Jeśli aplikacja została odrzucona to jej autor musi odczekać dwa tygodnie zanim wrzuci kolejną.
@@ -311,17 +304,6 @@ Wyobraź sobie, że masz sojusz z gangiem ale czymś ciebie zdenerwowali i przeb
 
 4. Hoodgaming (w skrócie HG).
 > Hoodgaming - jak sama nazwa mówi to gra w miejscu, którym wybraliście na samym początku aplikacji, mowa tu o dzielnicy lub miejscu w, którym przesiadujecie. Gra wygląda, przynajmniej powinna, że ekipa z aplikacji/organizacji gra swoją ekipą w miejscu wymienionym wyżej. W przypadku gangów jest to jakiś grill przy muzyce, piwach i dobrym paleniu. Można jeszcze pograć hoodfighting - czyli zdrowa nawalanka między ziomeczkami. Jeśli chodzi o szajki to mogą grać w tym miejscu warsztat, jakieś przeglądy swoich pojazdów. Z mafiami wygląda to tak, że w swoim miejscu mogą zjeść ekipą jakiś obiad, pograć w karty o kasę lub inne takie gierki, ogólnie obgadanie biznesów i tak dalej (to są tylko przykłady, których jest mało - jest oczywiście więcej opcji). Generalnie chodzi o miłą i przyjemną rozrywkę ze swoimi ludźmi na waszym hoodzie.
-
-#### 3. Moja aplikacja została zaakceptowana, co dalej?
-1. Wpisujecie się w [liste organizacji oraz liderów](http://mrucznik-rp.pl/topic/139-001-ko-lista-organizacji-oraz-lider%C3%B3w/)
-2. Piszecie [prośbę](http://mrucznik-rp.pl/forum/464-forum/) o dział własnej organizacji (opcjonalnie). Ja preferuję założenie serwera na Discordzie (świetna sprawa, naprawdę polecam).
-> W prośbach dotyczących działu podawajcie informacje takie jak:
-> - nazwa działu/organizacji,
-> - ewentualne subfora i hasła do nich,
-> - kto ma posiadać moderatora,
-> - link do akceptowanej aplikacji​.
-3. Kierujecie się do [tego tematu](https://mrucznik-rp.pl/topic/72741-ko-jak-szybko-za%C5%82atwi%C4%87-spraw%C4%99-ko-na-serwerze/) i stosujecie się do instrukcji w nim zawartych.
-4. Korzystacie z półświatka jako pełnoprawna **organizacja przestępcza**!
 
 ### 10. Regulamin FCK
 #### 1. Co trzeba zrobic aby nadać FCK?
